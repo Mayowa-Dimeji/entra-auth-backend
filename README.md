@@ -6,12 +6,11 @@ This is a secure, modular backend built with **Azure Functions (.NET 8 isolated)
 
 ## 🎯 Purpose
 
-This project is part of my effort to build a **production-level authentication flow** using technologies widely adopted by modern cloud-native systems, including those used by Perceptor. The goal is to implement:
+This project is part of my effort to build a **production-level authentication flow** using technologies widely adopted by modern cloud-native systems. The goal is to implement:
 
 - 🔒 Secure sign-up and sign-in flows
 - ✅ JWT validation from Entra ID
 - 🧠 Token-based access control
-- 📸 Optional biometric or pattern recognition integration (future)
 - 🚀 Scalable, serverless architecture ready for real-world use
 
 ---
