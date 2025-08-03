@@ -99,7 +99,7 @@ This project is part of my effort to build a **production-level authentication f
 ## 📬 Contact
 
 - LinkedIn: [linkedin.com/in/mayowaoladimeji](https://www.linkedin.com/in/mayowa-oladimeji/)
-- Portfolio: [mayowaoladimeji](https://my-portfolio-gamma-bay-50.vercel.app/) _(placeholder if not live yet)_
+- Portfolio: [mayowaoladimeji](https://my-portfolio-gamma-bay-50.vercel.app/) \_\_
 
 ---
 
